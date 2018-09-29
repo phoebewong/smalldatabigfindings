@@ -1,4 +1,4 @@
-baseurl = "smalldatabigfindings.com"
+baseurl = ""
 title = "Small Data, Big Findings"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
