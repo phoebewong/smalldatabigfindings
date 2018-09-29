@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "smalldatabigfindings.com"
 title = "Small Data, Big Findings"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"

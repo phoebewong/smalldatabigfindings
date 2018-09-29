@@ -1,3 +1,243 @@
 ]0;~/Documents/smalldatabigfindings[?1034hPhoebes-MacBook-Pro-3:smalldatabigfindings pwong$ [KPhoebes-MacBook-Pro-3:smalldatabigfindings pwongg$ git init
 Initialized empty Git repository in /Users/pwong/Documents/smalldatabigfindings/.git/
 ]0;~/Documents/smalldatabigfindingsPhoebes-MacBook-Pro-3:smalldatabigfindings pwongg$ [K[APhoebes-MacBook-Pro-3:smalldatabigfindings pwong$ [KPhoebes-MacBook-Pro-3:smalldatabigfindings pwong$ git add .
+]0;~/Documents/smalldatabigfindingsPhoebes-MacBook-Pro-3:smalldatabigfindings pwong$ git commit  -m"First commit"
+[master (root-commit) 5f13060] First commit
+ 214 files changed, 39702 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/5744397E/build_options
+ create mode 100644 .Rproj.user/5744397E/console06/DA01EAA9
+ create mode 100644 .Rproj.user/5744397E/console06/DA01EAA9.env
+ create mode 100644 .Rproj.user/5744397E/console06/INDEX001
+ create mode 100644 .Rproj.user/5744397E/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/5744397E/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/5744397E/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/5744397E/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/5744397E/rmd-outputs
+ create mode 100644 .Rproj.user/5744397E/saved_source_markers
+ create mode 100644 .Rproj.user/5744397E/sources/prop/308728D9
+ create mode 100644 .Rproj.user/5744397E/sources/prop/6972AF20
+ create mode 100644 .Rproj.user/5744397E/sources/prop/99636E6C
+ create mode 100644 .Rproj.user/5744397E/sources/prop/INDEX
+ create mode 100644 .Rproj.user/5744397E/sources/s-6BE71AA8/7EB50C49-contents
+ create mode 100644 .Rproj.user/5744397E/sources/s-6BE71AA8/AC6B99C9-contents
+ create mode 100644 .Rproj.user/5744397E/sources/s-6BE71AA8/D4C44586-contents
+ create mode 100644 .Rproj.user/5744397E/sources/s-6BE71AA8/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 config.toml
+ create mode 100644 content/about/_index.md
+ create mode 100644 content/contact/_index.md
+ create mode 100644 content/portfolio/work1.md
+ create mode 100644 content/portfolio/work10.md
+ create mode 100644 content/portfolio/work11.md
+ create mode 100644 content/portfolio/work2.md
+ create mode 100644 content/portfolio/work3.md
+ create mode 100644 content/portfolio/work4.md
+ create mode 100644 content/portfolio/work5.md
+ create mode 100644 content/portfolio/work6.md
+ create mode 100644 content/portfolio/work7.md
+ create mode 100644 content/portfolio/work8.md
+ create mode 100644 content/portfolio/work9.md
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.html
+ create mode 100644 index.Rmd
+ create mode 100644 public/404.html
+ create mode 100644 public/about/index.html
+ create mode 100644 public/about/index.xml
+ create mode 100644 public/categories/index.html
+ create mode 100644 public/categories/index.xml
+ create mode 100644 public/categories/r/index.html
+ create mode 100644 public/categories/r/index.xml
+ create mode 100644 public/contact/index.html
+ create mode 100644 public/contact/index.xml
+ create mode 100644 public/css/bootstrap.min.css
+ create mode 100644 public/css/bootstrap.min.css.map
+ create mode 100644 public/css/custom.css
+ create mode 100644 public/css/font-awesome.min.css
+ create mode 100644 public/css/fonts/FontAwesome.otf
+ create mode 100644 public/css/fonts/fontawesome-webfont.eot
+ create mode 100644 public/css/fonts/fontawesome-webfont.svg
+ create mode 100644 public/css/fonts/fontawesome-webfont.ttf
+ create mode 100644 public/css/fonts/fontawesome-webfont.woff
+ create mode 100644 public/css/fonts/fontawesome-webfont.woff2
+ create mode 100644 public/css/helper.css
+ create mode 100644 public/css/owl.carousel.css
+ create mode 100644 public/css/owl.theme.css
+ create mode 100644 public/css/owl.transitions.css
+ create mode 100644 public/css/style.blue.css
+ create mode 100644 public/css/style.default.css
+ create mode 100644 public/css/style.green.css
+ create mode 100644 public/css/style.pink.css
+ create mode 100644 public/css/style.red.css
+ create mode 100644 public/css/style.sea.css
+ create mode 100644 public/css/style.violet.css
+ create mode 100644 public/img/about.jpg
+ create mode 100644 public/img/favicon.png
+ create mode 100644 public/img/portfolio/a4-paper.jpg
+ create mode 100644 public/img/portfolio/business-card-26.jpg
+ create mode 100644 public/img/portfolio/business-card.jpg
+ create mode 100644 public/img/portfolio/envelope-brand.jpg
+ create mode 100644 public/img/portfolio/gravity-paper.jpg
+ create mode 100644 public/img/portfolio/ipad-air-2.jpg
+ create mode 100644 public/img/portfolio/label-clothes.jpg
+ create mode 100644 public/img/portfolio/paper-presentation.jpg
+ create mode 100644 public/img/portfolio/trifold.jpg
+ create mode 100644 public/index.html
+ create mode 100644 public/index.xml
+ create mode 100644 public/js/bootstrap.min.js
+ create mode 100644 public/js/ekko-lightbox.js
+ create mode 100644 public/js/front.js
+ create mode 100644 public/js/imagesloaded.pkgd.min.js
+ create mode 100644 public/js/jquery.cookie.js
+ create mode 100644 public/js/jquery.min.js
+ create mode 100644 public/js/jquery.scrollTo.min.js
+ create mode 100644 public/js/main.js
+ create mode 100644 public/js/masonry.pkgd.min.js
+ create mode 100644 public/js/owl.carousel.min.js
+ create mode 100644 public/portfolio/index.html
+ create mode 100644 public/portfolio/index.xml
+ create mode 100644 public/portfolio/work1/index.html
+ create mode 100644 public/portfolio/work10/index.html
+ create mode 100644 public/portfolio/work11/index.html
+ create mode 100644 public/portfolio/work2/index.html
+ create mode 100644 public/portfolio/work3/index.html
+ create mode 100644 public/portfolio/work4/index.html
+ create mode 100644 public/portfolio/work5/index.html
+ create mode 100644 public/portfolio/work6/index.html
+ create mode 100644 public/portfolio/work7/index.html
+ create mode 100644 public/portfolio/work8/index.html
+ create mode 100644 public/portfolio/work9/index.html
+ create mode 100644 public/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 public/post/2015-07-23-r-rmarkdown/index.html
+ create mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 public/post/index.html
+ create mode 100644 public/post/index.xml
+ create mode 100644 public/sitemap.xml
+ create mode 100644 public/tags/index.html
+ create mode 100644 public/tags/index.xml
+ create mode 100644 public/tags/plot/index.html
+ create mode 100644 public/tags/plot/index.xml
+ create mode 100644 public/tags/r-markdown/index.html
+ create mode 100644 public/tags/r-markdown/index.xml
+ create mode 100644 public/tags/regression/index.html
+ create mode 100644 public/tags/regression/index.xml
+ create mode 100644 smalldatabigfindings.Rproj
+ create mode 100644 static/img/about.jpg
+ create mode 100644 static/img/favicon.png
+ create mode 100644 static/img/portfolio/a4-paper.jpg
+ create mode 100644 static/img/portfolio/business-card-26.jpg
+ create mode 100644 static/img/portfolio/business-card.jpg
+ create mode 100644 static/img/portfolio/envelope-brand.jpg
+ create mode 100644 static/img/portfolio/gravity-paper.jpg
+ create mode 100644 static/img/portfolio/ipad-air-2.jpg
+ create mode 100644 static/img/portfolio/label-clothes.jpg
+ create mode 100644 static/img/portfolio/paper-presentation.jpg
+ create mode 100644 static/img/portfolio/trifold.jpg
+ create mode 100644 static/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 themes/hugo-creative-portfolio-theme/.gitignore
+ create mode 100644 themes/hugo-creative-portfolio-theme/.travis.yml
+ create mode 100644 themes/hugo-creative-portfolio-theme/LICENSE
+ create mode 100644 themes/hugo-creative-portfolio-theme/README.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/archetypes/default.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/archetypes/portfolio.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/config.toml
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/about/_index.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/contact/_index.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work1.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work10.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work11.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work2.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work3.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work4.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work5.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work6.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work7.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work8.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work9.md
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/about.jpg
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/favicon.png
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/a4-paper.jpg
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/business-card-26.jpg
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/business-card.jpg
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/envelope-brand.jpg
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/gravity-paper.jpg
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/ipad-air-2.jpg
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/label-clothes.jpg
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/paper-presentation.jpg
+ create mode 100644 themes/hugo-creative-portfolio-theme/exampleSite/static/img/portfolio/trifold.jpg
+ create mode 100644 themes/hugo-creative-portfolio-theme/images/screenshot.png
+ create mode 100644 themes/hugo-creative-portfolio-theme/images/tn.png
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/404.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/_default/list.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/_default/single.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/about/list.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/contact/list.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/index.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/partials/attribution.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/partials/footer.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/partials/head.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/partials/header.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/partials/mobile_nav_toggle.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/partials/scripts.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/partials/sidebar.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/partials/social_buttons_in_contact.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/layouts/partials/social_buttons_in_sidebar.html
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/bootstrap.min.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/bootstrap.min.css.map
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/custom.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/font-awesome.min.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/fonts/FontAwesome.otf
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.eot
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.svg
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.ttf
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.woff
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.woff2
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/helper.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/owl.carousel.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/owl.theme.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/owl.transitions.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/style.blue.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/style.default.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/style.green.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/style.pink.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/style.red.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/style.sea.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/css/style.violet.css
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/js/bootstrap.min.js
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/js/ekko-lightbox.js
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/js/front.js
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/js/imagesloaded.pkgd.min.js
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/js/jquery.cookie.js
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/js/jquery.min.js
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/js/jquery.scrollTo.min.js
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/js/main.js
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/js/masonry.pkgd.min.js
+ create mode 100644 themes/hugo-creative-portfolio-theme/static/js/owl.carousel.min.js
+ create mode 100644 themes/hugo-creative-portfolio-theme/theme.toml
+]0;~/Documents/smalldatabigfindingsPhoebes-MacBook-Pro-3:smalldatabigfindings pwong$ git remote  add origin https://github.com/phoebewong/smalldatabigfindings .com.git
+]0;~/Documents/smalldatabigfindingsPhoebes-MacBook-Pro-3:smalldatabigfindings pwong$ git remote  -v
+origin	https://github.com/phoebewong/smalldatabigfindings.com.git (fetch)
+origin	https://github.com/phoebewong/smalldatabigfindings.com.git (push)
+]0;~/Documents/smalldatabigfindingsPhoebes-MacBook-Pro-3:smalldatabigfindings pwong$ git push -u  origin master
+Counting objects: 197, done.
+Delta compression using up to 4 threads.
+Compressing objects:   0% (1/170)   Compressing objects:   1% (2/170)   Compressing objects:   2% (4/170)   Compressing objects:   3% (6/170)   Compressing objects:   4% (7/170)   Compressing objects:   5% (9/170)   Compressing objects:   6% (11/170)   Compressing objects:   7% (12/170)   Compressing objects:   8% (14/170)   Compressing objects:   9% (16/170)   Compressing objects:  10% (17/170)   Compressing objects:  11% (19/170)   Compressing objects:  12% (21/170)   Compressing objects:  13% (23/170)   Compressing objects:  14% (24/170)   Compressing objects:  15% (26/170)   Compressing objects:  16% (28/170)   Compressing objects:  17% (29/170)   Compressing objects:  18% (31/170)   Compressing objects:  19% (33/170)   Compressing objects:  20% (34/170)   Compressing objects:  21% (36/170)   Compressing objects:  22% (38/170)   Compressing objects:  23% (40/170)   Compressing objects:  24% (41/170)   Compressing objects:  25% (43/170)   Compressing objects:  26% (45/170)   Compressing objects:  27% (46/170)   Compressing objects:  28% (48/170)   Compressing objects:  29% (50/170)   Compressing objects:  30% (51/170)   Compressing objects:  31% (53/170)   Compressing objects:  32% (55/170)   Compressing objects:  33% (57/170)   Compressing objects:  34% (58/170)   Compressing objects:  35% (60/170)   Compressing objects:  36% (62/170)   Compressing objects:  37% (63/170)   Compressing objects:  38% (65/170)   Compressing objects:  39% (67/170)   Compressing objects:  40% (68/170)   Compressing objects:  41% (70/170)   Compressing objects:  42% (72/170)   Compressing objects:  43% (74/170)   Compressing objects:  44% (75/170)   Compressing objects:  45% (77/170)   Compressing objects:  46% (79/170)   Compressing objects:  47% (80/170)   Compressing objects:  48% (82/170)   Compressing objects:  49% (84/170)   Compressing objects:  50% (85/170)   Compressing objects:  51% (87/170)   Compressing objects:  52% (89/170)   Compressing objects:  53% (91/170)   Compressing objects:  54% (92/170)   Compressing objects:  55% (94/170)   Compressing objects:  56% (96/170)   Compressing objects:  57% (97/170)   Compressing objects:  58% (99/170)   Compressing objects:  59% (101/170)   Compressing objects:  60% (102/170)   Compressing objects:  61% (104/170)   Compressing objects:  62% (106/170)   Compressing objects:  63% (108/170)   Compressing objects:  64% (109/170)   Compressing objects:  65% (111/170)   Compressing objects:  66% (113/170)   Compressing objects:  67% (114/170)   Compressing objects:  68% (116/170)   Compressing objects:  69% (118/170)   Compressing objects:  70% (119/170)   Compressing objects:  71% (121/170)   Compressing objects:  72% (123/170)   Compressing objects:  73% (125/170)   Compressing objects:  74% (126/170)   Compressing objects:  75% (128/170)   Compressing objects:  76% (130/170)   Compressing objects:  77% (131/170)   Compressing objects:  78% (133/170)   Compressing objects:  79% (135/170)   Compressing objects:  80% (136/170)   Compressing objects:  81% (138/170)   Compressing objects:  82% (140/170)   Compressing objects:  83% (142/170)   Compressing objects:  84% (143/170)   Compressing objects:  85% (145/170)   Compressing objects:  86% (147/170)   Compressing objects:  87% (148/170)   Compressing objects:  88% (150/170)   Compressing objects:  89% (152/170)   Compressing objects:  90% (153/170)   Compressing objects:  91% (155/170)   Compressing objects:  92% (157/170)   Compressing objects:  93% (159/170)   Compressing objects:  94% (160/170)   Compressing objects:  95% (162/170)   Compressing objects:  96% (164/170)   Compressing objects:  97% (165/170)   Compressing objects:  98% (167/170)   Compressing objects:  99% (169/170)   Compressing objects: 100% (170/170)   Compressing objects: 100% (170/170), done.
+Writing objects:   0% (1/197)   Writing objects:   1% (2/197)   Writing objects:   2% (4/197)   Writing objects:   3% (6/197)   Writing objects:   4% (8/197)   Writing objects:   5% (10/197)   Writing objects:   6% (12/197)   Writing objects:   7% (14/197)   Writing objects:   8% (16/197)   Writing objects:   9% (18/197)   Writing objects:  10% (20/197)   Writing objects:  11% (22/197)   Writing objects:  12% (24/197)   Writing objects:  13% (26/197)   Writing objects:  14% (28/197)   Writing objects:  15% (30/197)   Writing objects:  16% (32/197)   Writing objects:  17% (35/197)   Writing objects:  18% (36/197)   Writing objects:  19% (38/197)   Writing objects:  20% (40/197)   Writing objects:  22% (45/197)   Writing objects:  23% (47/197)   Writing objects:  24% (48/197)   Writing objects:  25% (50/197)   Writing objects:  26% (52/197)   Writing objects:  27% (54/197)   Writing objects:  28% (56/197)   Writing objects:  29% (58/197)   Writing objects:  30% (60/197)   Writing objects:  31% (62/197)   Writing objects:  32% (65/197)   Writing objects:  33% (66/197)   Writing objects:  34% (68/197)   Writing objects:  35% (69/197)   Writing objects:  36% (71/197)   Writing objects:  37% (73/197)   Writing objects:  38% (75/197)   Writing objects:  39% (77/197)   Writing objects:  40% (79/197)   Writing objects:  41% (81/197)   Writing objects:  42% (83/197)   Writing objects:  43% (85/197)   Writing objects:  44% (87/197)   Writing objects:  45% (90/197)   Writing objects:  46% (91/197)   Writing objects:  47% (93/197)   Writing objects:  48% (95/197)   Writing objects:  49% (97/197)   Writing objects:  50% (99/197)   Writing objects:  51% (101/197)   Writing objects:  52% (103/197)   Writing objects:  53% (105/197)   Writing objects:  54% (107/197)   Writing objects:  55% (109/197)   Writing objects:  56% (111/197)   Writing objects:  57% (113/197)   Writing objects:  58% (115/197)   Writing objects:  59% (117/197)   Writing objects:  60% (119/197)   Writing objects:  61% (121/197)   Writing objects:  62% (123/197)   Writing objects:  63% (125/197)   Writing objects:  64% (128/197)   Writing objects:  65% (129/197)   Writing objects:  66% (131/197)   Writing objects:  67% (132/197)   Writing objects:  68% (134/197)   Writing objects:  69% (136/197)   Writing objects:  70% (138/197)   Writing objects:  71% (140/197)   Writing objects:  72% (142/197)   Writing objects:  73% (144/197)   Writing objects:  74% (146/197)   Writing objects:  75% (148/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  76% (150/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  77% (152/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  78% (154/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  79% (156/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  80% (158/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  81% (160/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  82% (162/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  83% (164/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  84% (166/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  85% (168/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  86% (170/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  87% (172/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  88% (174/197), 1.09 MiB | 1.14 MiB/s   Writing objects:  89% (176/197), 1.77 MiB | 1.21 MiB/s   Writing objects:  90% (178/197), 1.77 MiB | 1.21 MiB/s   Writing objects:  91% (180/197), 1.77 MiB | 1.21 MiB/s   Writing objects:  92% (182/197), 1.77 MiB | 1.21 MiB/s   Writing objects:  93% (184/197), 1.77 MiB | 1.21 MiB/s   Writing objects:  94% (186/197), 1.77 MiB | 1.21 MiB/s   Writing objects:  95% (188/197), 1.77 MiB | 1.21 MiB/s   Writing objects:  96% (190/197), 1.77 MiB | 1.21 MiB/s   Writing objects:  97% (192/197), 1.77 MiB | 1.21 MiB/s   Writing objects:  98% (194/197), 1.77 MiB | 1.21 MiB/s   Writing objects:  99% (196/197), 1.77 MiB | 1.21 MiB/s   Writing objects: 100% (197/197), 1.77 MiB | 1.21 MiB/s   Writing objects: 100% (197/197), 1.89 MiB | 1.25 MiB/s, done.
+Total 197 (delta 43), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/43)   [Kremote: Resolving deltas:   2% (1/43)   [Kremote: Resolving deltas:   4% (2/43)   [Kremote: Resolving deltas:  27% (12/43)   [Kremote: Resolving deltas:  44% (19/43)   [Kremote: Resolving deltas:  46% (20/43)   [Kremote: Resolving deltas:  58% (25/43)   [Kremote: Resolving deltas:  60% (26/43)   [Kremote: Resolving deltas:  72% (31/43)   [Kremote: Resolving deltas:  95% (41/43)   [Kremote: Resolving deltas:  97% (42/43)   [Kremote: Resolving deltas: 100% (43/43)   [Kremote: Resolving deltas: 100% (43/43), done.[K
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:[K
+remote:      https://github.com/phoebewong/smalldatabigfindings.com/pull/new/master[K
+remote: 
+To https://github.com/phoebewong/smalldatabigfindings.com.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;~/Documents/smalldatabigfindingsPhoebes-MacBook-Pro-3:smalldatabigfindings pwong$ git remote  set-url origin https://github.com/phoebewong/smalldatabigfind ings.git
+]0;~/Documents/smalldatabigfindingsPhoebes-MacBook-Pro-3:smalldatabigfindings pwong$ git remote  -v
+origin	https://github.com/phoebewong/smalldatabigfindings.git (fetch)
+origin	https://github.com/phoebewong/smalldatabigfindings.git (push)
+]0;~/Documents/smalldatabigfindingsPhoebes-MacBook-Pro-3:smalldatabigfindings pwong$ 
