@@ -36,7 +36,7 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Home"
   url = ""
-  home = true
+  # home = true
 
   [[params.navlinks]]
   name = "About"
@@ -51,3 +51,9 @@ googleAnalytics = ""
   twitter       = "https://twitter.com/search?q=phoebewong2012"
   linkedin      = "https://www.linkedin.com/in/wphoebe/"
   github        = "https://github.com/phoebewong"
+
+  #Adding widgets to the sidebar
+  [params.widgets]
+    categories = false
+    tags = true
+    search = true
