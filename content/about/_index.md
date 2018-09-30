@@ -10,13 +10,10 @@ Before joining Legendary, I graduated from UC Berkeley studying Psychology. My s
 
 [My resume](/pdf/Resume_PhoebeWong_website.pdf)
 
-![This is me][1]
+![Photo](/img/thumbnail.jpg)
 
 #### Why small data?
 
 
 #### Personal interest
 Besides data, I enjoy traveling.
-
-
-[1]: /img/thumbnail.jpg
