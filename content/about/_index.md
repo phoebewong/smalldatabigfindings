@@ -8,15 +8,15 @@ I'm a data scientist with a research background and interest in Social Psycholog
 I current study Data Science at Institute of Applied Computational Science (IACS) at Harvard University. Prior to joining Harvard, I worked at Legendary Entertainment Applied Analytics where I worked in marketing research.
 Before joining Legendary, I graduated from UC Berkeley studying Psychology. My senior thesis focuses on studying the phenomenon of loss aversion in a lottery decision making scenario.
 
+[My resume](/pdf/Resume_PhoebeWong_website.pdf)
+
 ![This is me][1]
 
 #### Why small data?
 
 
-[Resume]()
-
 #### Personal interest
 Besides data, I enjoy traveling.
 
 
-[1]: /img/about.jpg
+[1]: /img/thumbnail.jpg

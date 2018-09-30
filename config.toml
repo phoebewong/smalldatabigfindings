@@ -22,9 +22,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # description = "Describe your website"
   copyright = "&copy;2018 Phoebe Wong"
   sidebarAbout = [
+    <img alt = 'thumbnail' width='200' src='/static/img/thumbnail.jpg' />
     "I am a data scientist with a research background in Social Psychology and Marketing.",
-    "Currently at Harvard studying Data Science, worked at Legendary Entertainment and WarnerMedia.",
-    "Graduated from UC Berkeley, California."
+    "Currently at Harvard studying Data Science, worked at Legendary Entertainment and WarnerMedia."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
