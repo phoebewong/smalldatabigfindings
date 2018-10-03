@@ -2,6 +2,7 @@
 date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
+<h1 class="cd-headline rotate-1"><span>I Am </span><span class="cd-words-wrapper"><b class="is-visible">A Geek</b><b>A Woman</b><b>An R Lady</b><b>A Data Scientist</b></span></h1>
 
 I'm a data scientist with a research background and interest in Social Psychology and Marketing.
 
