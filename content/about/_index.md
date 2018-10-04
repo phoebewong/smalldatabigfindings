@@ -2,18 +2,18 @@
 date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
-<h1 class="cd-headline type"><span>I Am </span>
+<h1 class="cd-headline type"><span>I am a</span>
   <span class="cd-words-wrapper">
-    <b class="is-visible"><i class="out">A</i><i class="out"> </i><i class="out">W</i><i class="out">o</i><i class="out">m</i><i class="out">a</i><i class="out">n</i>
+    <b class="is-visible"><i class="out"> </i><i class="in">r</i><i class="in">e</i><i class="in">s</i><i class="in">e</i><i class="in">a</i><i class="in">r</i><i class="in">c</i><i class="in">h</i><i class="in">e</i><i class="in">r</i>
     </b>
     <b class="is-hidden">
-      <i class="out">A</i><i class="out"> </i><i class="out">G</i><i class="out">e</i><i class="out">e</i><i class="out">k</i>
+      <i class="out"> </i><i class="out">P</i><i class="out">s</i><i class="out">y</i><i class="out">c</i><i class="out">h</i><i class="out">o</i><i class="out">l</i><i class="out">o</i><i class="out">g</i><i class="out">i</i><i class="out">s</i><i class="out">t</i>
     </b>
     <b class="is-hidden">
-      <i class="out">A</i><i class="out">n</i><i class="out"> </i><i class="out">R</i><i class="out"> </i><i class="out">L</i><i class="out">a</i><i class="out">d</i><i class="out">y</i>
+      <i class="out"> </i><i class="out">R</i><i class="out">-</i><i class="out">L</i><i class="out">a</i><i class="out">d</i><i class="out">y</i>
     </b>
       <b class="is-hidden">
-      <i class="out">A</i><i class="out"> </i><i class="out">D</i><i class="out">a</i><i class="out">t</i><i class="out">a</i><i class="out"> </i><i class="out">S</i><i class="out">c</i><i class="out">i</i><i class="out">e</i><i class="out">n</i><i class="out">t</i><i class="out">i</i><i class="out">s</i><i class="out">t</i>
+      <i class="out"> </i><i class="out">D</i><i class="out">a</i><i class="out">t</i><i class="out">a</i><i class="out"> </i><i class="out">S</i><i class="out">c</i><i class="out">i</i><i class="out">e</i><i class="out">n</i><i class="out">t</i><i class="out">i</i><i class="out">s</i><i class="out">t</i>
     </b>
   </span>
 </h1>
