@@ -38,3 +38,7 @@ If you are interested in learning more about flaws of big data, you should check
 
 #### R-Ladies
 I serve as a co-organizer for [R-Ladies Boston](https://www.meetup.com/rladies-boston/). [R-Ladies](https://rladies.org/) is a worldwide organization whose mission is to promote gender diversity in the R community. 
+
+#### Visitor Data
+
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=FHxadM382ME-I3_mtYsiSaBoK5eMXLdJ9at2knrLZjw"></script>

@@ -19,7 +19,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
-  # description = "Describe your website"
+  description = "Small Data, Big Findings is a website maintained by Phoebe Wong. It focuses on her personal Data Science projects and experience."
   copyright = "&copy;2018 Phoebe Wong"
   sidebarAbout = [
     "I am a data scientist with a research background in Social Psychology and Marketing.",
