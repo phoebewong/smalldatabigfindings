@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = ""
 +++
 <h1 class="cd-headline type"><span>I am a</span>
   <span class="cd-words-wrapper">
@@ -18,10 +18,9 @@ title = "About me"
   </span>
 </h1>
 
-I'm a data scientist with a research background and interest in Social Psychology and Marketing.
+I'm Phoebe Wong, a data scientist with a research background and interest in Social Psychology and Marketing. Unlike many other data scientists, I came from a Social Science background (Psychology) and am interested in the intersection of the two fields, which includes the field of Data Science, Human-Computer Interaction, Consumer Psychology and Decision-making.
 
-I current study Data Science at Institute of Applied Computational Science (IACS) at Harvard University. Prior to joining Harvard, I worked at Legendary Entertainment Applied Analytics where I worked in marketing research.
-Before joining Legendary, I graduated from UC Berkeley studying Psychology. My senior thesis focuses on studying the phenomenon of loss aversion in a lottery decision making scenario.
+I am currently a master student in Data Science at Harvard University. Prior to joining Harvard, I worked at Legendary Entertainment/WarnerMedia Applied Analytics where my work focused on consumer psychology and marketing strategy recommendation. Before joining Legendary, I graduated from UC Berkeley in Psychology. My senior thesis focuses on studying the phenomenon of loss aversion in the context of lottery decision making.
 
 [My resume](/pdf/Resume_PhoebeWong_website.pdf)
 
@@ -29,7 +28,13 @@ Before joining Legendary, I graduated from UC Berkeley studying Psychology. My s
 
 
 #### Why small data?
+"Big Data" is a recent buzzword that is used (and often misued) in the world of Data Science. The title of my blog is mostly a joke that goes against the idea. The serious reason that I focus on small data here is because most data posts on this blog will be based on **"small enough"** data that it fits into my laptop memory. 
 
+Don't get me wrong, knowing how to work with big data (e.g.,high-performance computing) is definitely important for a Data Scientist. However, I think a lot of the times, the fundamental skills (statistics, visualizations/communcations and efficient programming) are overlooked. 
 
-#### Personal interest
-Besides data, I enjoy traveling.
+Therefore, we will go **small** for now.
+
+If you are interested in learning more about flaws of big data, you should check out this talk on [Statistical paradises and paradoxies in Big Data](https://www.youtube.com/watch?v=8YLdIDOMEZs) by Professor Xiao-Li Meng, Dean of Graduate School of Arts and Science at Harvard.
+
+#### R-Ladies
+I serve as a co-organizer for [R-Ladies Boston](https://www.meetup.com/rladies-boston/). [R-Ladies](https://rladies.org/) is a worldwide organization whose mission is to promote gender diversity in the R community. 

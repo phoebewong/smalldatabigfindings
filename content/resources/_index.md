@@ -13,17 +13,21 @@ I learned R from various classes at UC Berkeley, including Stat 133 and a DeCal 
 
 ### ggplot2
 ggplot2 is one of the most popular plotting libraries in the R community.
+
 [ggplot2 documentation](https://ggplot2.tidyverse.org/index.html)
 - Cheatsheet on the website is helpful for me
 
 ### dplyr
 dplyr introduces grammar of data manipulation to R and Data Science.
+
 [dplyr webiste](https://dplyr.tidyverse.org/)
 
 ### Shiny
 Shiny is a popular R web application framework that allows you to build interactive web application using R and R syntax
+
 [Coursera - Developing Data Products](https://www.coursera.org/learn/data-products)
 - I have personally taken this class to learn about Shiny
+
 [RStudio Shiny Tutorial](https://shiny.rstudio.com/tutorial/)
 - I found the tutorial and gallery helpful
 
@@ -31,8 +35,9 @@ Shiny is a popular R web application framework that allows you to build interact
 I learned Python through UC Berkeley [Data 8](http://data8.org/) class.
 - The class is now available through [edX](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x)
 
-## Data science
+## Data Science/Machine Learning
 Data Science is such a broad topic that it is hard to list resources. There are a few books that I think are great for beginners. I however did not learn from books. I learned mostly through work experience and projects.
+
 [R for Data Science](http://r4ds.had.co.nz/)
 
 ## LaTex
