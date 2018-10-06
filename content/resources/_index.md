@@ -1,9 +1,11 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "Resources"
+title = ""
 +++
 
-# Additional resources for Data Science
+# Additional Resources 
+#### (for Data Science)
+
 Many have asked me how did I learn (Python, R, LaTex, Git...). I want to share resources that I have used/heard good things about. Learning how to program for me involves a lot of online searches as well as trial and error. However, when I learn completely new techniques, I find it helpful to start with some structured online resources to understand basic concepts, hence, the list below hopefully can serve as a starting point for you.
 
 ## R
