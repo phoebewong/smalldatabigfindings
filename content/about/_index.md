@@ -22,7 +22,7 @@ I'm Phoebe Wong, a data scientist with a research background and interest in Soc
 
 I am currently a master student in Data Science at Harvard University. Prior to joining Harvard, I worked at Legendary Entertainment/WarnerMedia Applied Analytics where my work focused on consumer psychology and marketing strategy recommendation. Before joining Legendary, I graduated from UC Berkeley in Psychology. My senior thesis focuses on studying the phenomenon of loss aversion in the context of lottery decision making.
 
-[My resume](/pdf/Resume_PhoebeWong_website.pdf)
+[Resume](/pdf/Resume_PhoebeWong_website.pdf)
 
 <img src = "/img/thumbnail.jpg" width = "360" height = "400">
 

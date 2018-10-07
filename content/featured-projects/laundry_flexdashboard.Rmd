@@ -1,0 +1,20 @@
+---
+date: 2018-09-01
+title: Laundry Flexdashboard
+image: "img/portfolio/laundry.png"
+showonlyimage: false
+type: "post"
+author: Phoebe Wong
+draft: true
+---
+
+This is a test of the laundry flexdashboard
+
+```{r}
+y = 1+2
+print(y)
+```
+
+```{r echo=FALSE, eval=FALSE}
+blogdown::shortcode('tweet', '852205086956818432')
+```

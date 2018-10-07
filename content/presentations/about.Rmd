@@ -1,0 +1,32 @@
+---
+title: "Presentations and Tutorials"
+---
+
+1. Boston University Data Journalism (Data + Narrative at BU) Tutorial
+
+May 2018
+- I was invited to give a tutorial on introduction to data visualization tools to use to ~20 data journalists.
+
+![BU Data Journalism](/presentations/image/BU_1.jpeg){width=300px}
+
+![BU Data Journalism](/presentations/image/BU_2.jpeg){width=200px}
+![BU Data Journalism](/presentations/image/BU_3.jpeg){width=200px}
+
+```{r echo=FALSE}
+# blogdown::shortcode('tweet', '1004469187006353409')
+# https://twitter.com/BUDataNarrative/status/1004469187006353409?s=20
+```
+2. Purrr workshop at R-Ladies Boston
+
+Jan 2018
+- I gave a tutorial to ~30 R-ladies on `purrr` package. It focuses on object-orientation programming.
+
+- Tutorial material is on my [GitHub](https://github.com/phoebewong/purrr-tutorial-RLadies)
+
+3. Conference presentation at useR! 2017
+
+July 2017
+
+- I presented my personal project on using Shiny application to analyze and visualize Microsoft Outlook calendar history. 
+- [Live App](https://phoebewong.shinyapps.io/calendar_shinyio/)
+- [Poster](https://www.user2017.brussels/uploads/2017_useR_Shiny_Outlook_Calendarv2.pdf)

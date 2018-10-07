@@ -1,5 +1,5 @@
 baseurl = "https://smalldatabigfindings.com/"
-title = "Small Data, Big Findings"
+title = "Small Data, Big Findings - Phoebe Wong"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 enableEmoji = true
@@ -23,7 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   copyright = "&copy;2018 Phoebe Wong"
   sidebarAbout = [
     "I am a data scientist with a research background in Social Psychology and Marketing.",
-    "Currently at Harvard studying Data Science, worked at Legendary Entertainment and WarnerMedia."
+    "Currently MSc in Data Science at Harvard, previously worked at Legendary Entertainment and WarnerMedia."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -41,17 +41,21 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
-  url = "home/"
-  home = true
-
-  [[params.navlinks]]
   name = "About"
   url = "about/"
 
   [[params.navlinks]]
+  name = "Featured Projects"
+  url = "featured-projects/"
+  home = true
+
+  [[params.navlinks]]
   name = "Data Projects"
-  url = "project/"
+  url = "projects/"
+
+  [[params.navlinks]]
+  name = "Public Presentations"
+  url = "presentations/"
 
   [[params.navlinks]]
   name = "Get in touch"
@@ -62,7 +66,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "resources/"
 
   [params.social]
-  email         = "[phoebe dot wong]@berkeley.edu"
+  email         = "[phoebe dot wong][at]berkeley.edu"
   twitter       = "https://twitter.com/search?q=phoebewong2012"
   linkedin      = "https://www.linkedin.com/in/wphoebe/"
   github        = "https://github.com/phoebewong"
