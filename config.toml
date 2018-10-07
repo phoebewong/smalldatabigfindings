@@ -1,5 +1,5 @@
 baseurl = "https://smalldatabigfindings.com/"
-title = "Small Data, Big Findings - Phoebe Wong"
+title = "Small Data, Big Findings"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 enableEmoji = true
@@ -39,7 +39,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
   # email = "you@yoursite.com"
-  
+
   # Nav links in the side bar
   [[params.navlinks]]
   name = "About"
