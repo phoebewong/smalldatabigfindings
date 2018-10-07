@@ -1,9 +1,9 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-    <h2 class="sidebar-p">{{ .Site.Params.subtitle.text }}</h2>
+    <h2 class="sidebar-p">{{ .Site.Params.author }}</h2>
     
-    <img src="{{ .Site.Params.selfimage.image}}" alt="Smiley face" width="200"></img>
+    <img src="{{ .Site.Params.selfimage}}" alt="{{ .Site.Params.author }}" width="200"></img>
     
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>

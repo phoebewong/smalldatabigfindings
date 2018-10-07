@@ -16,6 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   author = "Phoebe Wong"
+  selfImage = '../img/thumbnail.jpg'
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
@@ -39,10 +40,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
      # - you're done. Happy mailing!
   # email = "you@yoursite.com"
   
-  #Secondary title
-  [params.subtitle]
-  text = "Phoebe Wong:"
-  
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
@@ -64,9 +61,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.navlinks]]
   name = "Resources"
   url = "resources/"
-  
-  [params.selfimage]
-  image = '../img/thumbnail.jpg'
 
   [params.social]
   email         = "[phoebe dot wong]@berkeley.edu"
