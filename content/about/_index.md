@@ -24,20 +24,17 @@ I am currently a master student in Data Science at Harvard University. Prior to 
 
 [Resume](/pdf/Resume_PhoebeWong_website.pdf)
 
-<img src = "/img/thumbnail.jpg" width = "360" height = "400">
-
-
 #### Why small data?
-"Big Data" is a recent buzzword that is used (and often misued) in the world of Data Science. The title of my blog is mostly a joke that goes against the idea. The serious reason that I focus on small data here is because most data posts on this blog will be based on **"small enough"** data that it fits into my laptop memory. 
+"Big Data" is a recent buzzword that is used (and often misued) in the world of Data Science. The title of my blog is mostly a joke that goes against the idea. The serious reason that I focus on small data here is because most data posts on this blog will be based on **"small enough"** data that it fits into my laptop memory.
 
-Don't get me wrong, knowing how to work with big data (e.g.,high-performance computing) is definitely important for a Data Scientist. However, I think a lot of the times, the fundamental skills (statistics, visualizations/communcations and efficient programming) are overlooked. 
+Don't get me wrong, knowing how to work with big data (e.g.,high-performance computing) is definitely important for a Data Scientist. However, I think a lot of the times, the fundamental skills (statistics, visualizations/communcations and efficient programming) are overlooked.
 
 Therefore, we will go **small** for now.
 
 If you are interested in learning more about flaws of big data, you should check out this talk on [Statistical paradises and paradoxies in Big Data](https://www.youtube.com/watch?v=8YLdIDOMEZs) by Professor Xiao-Li Meng, Dean of Graduate School of Arts and Science at Harvard.
 
 #### R-Ladies
-I serve as a co-organizer for [R-Ladies Boston](https://www.meetup.com/rladies-boston/). [R-Ladies](https://rladies.org/) is a worldwide organization whose mission is to promote gender diversity in the R community. 
+I serve as a co-organizer for [R-Ladies Boston](https://www.meetup.com/rladies-boston/). [R-Ladies](https://rladies.org/) is a worldwide organization whose mission is to promote gender diversity in the R community.
 
 #### Visitor Data
 
