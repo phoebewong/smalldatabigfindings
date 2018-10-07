@@ -38,7 +38,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
   # email = "you@yoursite.com"
-
+  
+  #Secondary title
+  [params.subtitle]
+  text = "Phoebe Wong:"
+  
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
@@ -60,6 +64,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.navlinks]]
   name = "Resources"
   url = "resources/"
+  
+  [params.selfimage]
+  image = '../img/thumbnail.jpg'
 
   [params.social]
   email         = "[phoebe dot wong]@berkeley.edu"
