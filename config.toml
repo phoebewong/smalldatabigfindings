@@ -16,6 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   author = "Phoebe Wong"
+  selfImage = '../img/thumbnail.jpg'
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
@@ -38,7 +39,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
   # email = "you@yoursite.com"
-
+  
   # Nav links in the side bar
   [[params.navlinks]]
   name = "About"
