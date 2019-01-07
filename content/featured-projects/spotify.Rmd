@@ -1,0 +1,23 @@
+---
+title: Spotify Million Playlist 2018 RecSys Challenge
+image: "img/portfolio/spotify.png"
+showonlyimage: false
+type: "post"
+author: Phoebe Wong
+description: "My team and I built a recommendation system (with 4 approaches) using Spotify's Million Playlist dataset released in 2018 RecSys Challenge"
+---
+
+Summary: My team and I built a recommendation system (with 4 approaches) using Spotify's Million Playlist dataset released in 2018 RecSys Challenge.
+
+### Overview
+Spotify is a major music streaming platform with over 191 million active users, 40 million songs, and 2 billion playlists (link). One key feature of Spotify is the song recommendations that populate your homepage, organized by theme and genre. Each music service provider is competing to give their listeners the joy of discovering new music, and there are a wide array of algorithmic approaches companies are taking.
+
+Our project specifically tackles on the challenge of recommending a set of songs that best fits to a playlist. A playlist is simply a sequence of songs that are selected by a user. They range in size from 0 to hundreds of songs that may be quite similar, or extremely eclectic. The inherent belief in recommending songs based on a playlist is that a playlist is a collection of songs that share similar features (e.g., similar genre, similar artists, or similar audio features), and a good recommendation algorithm should be able to capitalize on that. By suggesting appropriate songs to add to a playlist, users can explore new songs that are similar to songs they love without having to actively search for them.
+
+In order to recommend songs that best fit a playlist, we are going to have to look at songs that are ‘similar’ to existing songs in the playlist. We have the agency to measure similarity from a few different perspectives, such as co-occurrence, playlist structure, and metadata of the song (e.g., genre, artists and other audio features).
+
+### My main contributions
+I gathered information of individual tracks (audio features) and individual artists (popularity) through the Spotify API. I also built the [content-based filtering](https://phoebewong.github.io/music-recommendation-teamNPK/content.html) and [ALS Matrix Factorization](https://phoebewong.github.io/music-recommendation-teamNPK/als.html) models and co-built the [k-NN collaborative filtering model](https://phoebewong.github.io/music-recommendation-teamNPK/collab.html). 
+
+### Website (GitHub pages)
+Our [website](https://phoebewong.github.io/music-recommendation-teamNPK/) has more detailed information of our data cleaning, model analysis, result and visualization.

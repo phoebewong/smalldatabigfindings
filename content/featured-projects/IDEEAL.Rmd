@@ -1,0 +1,12 @@
+---
+title: "R Shiny Developer for EcoHealth Alliance"
+image: "img/portfolio/ecohealth.jpg"
+showonlyimage: true
+description: "I worked for EcoHealth Alliance for 3 months as a R Shiny developer to build a Shiny dashboard for their IDEEAL project"
+---
+
+Summary: I worked for [EcoHealth Alliance](https://www.ecohealthalliance.org/about) (an international nonprofit with the goal of protecting the health of people, animals and the environment from emerging infectious diseases) for 3 months as a R Shiny developer to build a Shiny dashboard for their [Infectious Disease Emergence and Economics of Altered Landscapes (IDEEAL) project](https://www.ecohealthalliance.org/program/ideeal).
+
+The project aims at building economic models of land-use change and economics of disease emergence that can be used by local and regional decision makers. I implemented an interactive and user-friendly R Shiny web application to help visualize results of the land-use change economic model. I also created interactive and interpretable visualizations for users (the general public) which allows the users to visualize how the result changes with different model inputs.
+
+The application is not yet published and unfortunately not available for the public at the moment.

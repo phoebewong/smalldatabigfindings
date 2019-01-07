@@ -1,20 +1,25 @@
 ---
 date: 2018-09-01
 title: Laundry Flexdashboard
-image: "img/portfolio/laundry.png"
+image: "img/portfolio/laundry2.png"
 showonlyimage: false
 type: "post"
 author: Phoebe Wong
-draft: true
+description: "I'm tired of waiting for the on-site laundry machines at my apartment buildings and therefore, I scraped one-month data of the real-time machine usage (in Nov 2017) and that gave me a reason to try out flexdashboard."
+
 ---
 
-This is a test of the laundry flexdashboard
+Summary: I'm tired of waiting for the on-site laundry machines at my apartment buildings and therefore, I scraped one-month data of the real-time machine usage (in Nov 2017) and that gave me a reason to try out flexdashboard.
 
-```{r}
-y = 1+2
-print(y)
-```
+## Flexdashboard 
+Before this project, I have primarily used Shiny to build interactive web applications or interactive visualization. Even though I learned about the existence of flexdashboard, I never had the opportunity to use it at work. The laundry data gave me a great reason to try it out!
 
-```{r echo=FALSE, eval=FALSE}
-blogdown::shortcode('tweet', '852205086956818432')
-```
+<!-- ![Laundry Dashboard](/featured-projects/image/laundry2.png) -->
+Below is the live dashboard (it will take some time to load the first time.)
+
+<iframe width = "750" height = "500" src="https://phoebewong.shinyapps.io/laundry-data-dashboard/"></iframe>
+
+If you would like to learn more about the source code, click the top right button.
+
+## Future Development
+The work is in continuous development, I would love to try out different interactive visualization libraries (I'm familiar with plotly and would like to try something new). I have also scraped data in June 2018 which I plan to do a seasonal comparison in the future.
