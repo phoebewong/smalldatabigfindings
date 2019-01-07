@@ -1,7 +1,7 @@
 ---
 date: 2018-09-01
 title: Laundry Flexdashboard
-image: "/featured-projects/image/laundry2.png"
+image: "/featured-projects/image/laundry.png"
 # image: "img/portfolio/laundry2.png"
 showonlyimage: false
 type: "post"
