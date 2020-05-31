@@ -25,7 +25,7 @@ I am currently a master student in Data Science at Harvard University. Prior to 
 [Resume](/pdf/Resume_PhoebeWong_website.pdf)
 
 #### Why small data?
-"Big Data" is a recent buzzword that is used (and often misued) in the world of Data Science. The title of my blog is mostly a joke that goes against the idea. The serious reason that I focus on small data here is because most data posts on this blog will be based on **"small enough"** data that it fits into my laptop memory.
+"Big Data" is a recent buzzword that is used (and often misused) in the world of Data Science. The title of my blog is mostly a joke that goes against the idea. The serious reason that I focus on small data here is because most data posts on this blog will be based on **"small enough"** data that it fits into my laptop memory.
 
 Don't get me wrong, knowing how to work with big data (e.g.,high-performance computing) is definitely important for a Data Scientist. However, I think a lot of the times, the fundamental skills (statistics, visualizations/communcations and efficient programming) are overlooked.
 
