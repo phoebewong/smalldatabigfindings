@@ -1,0 +1,62 @@
+---
+date: 2020-05-31
+title: LINE Chat History Analysis
+image: "featured-projects/image/LINE.png"
+# image: "img/portfolio/laundry2.png"
+showonlyimage: false
+type: "post"
+author: Phoebe Wong
+description: "The Shiny app to analyze LINE chat history 這是一個你我他的故事。"
+output:
+  css: typing.css
+---
+<!-- 這是一個你我他的故事。 -->
+
+
+<h1 class="cd-headline type"><span></span>
+  <span class="cd-words-wrapper">
+      <b class="is-visible">
+      <i class="in">有多少個晚上我在電話的另一端等著你的晚安？</i>
+      </b>
+      <b class="is-hidden">
+      <i class="out">遠</i>
+      <i class="out">距</i>
+      <i class="out">離</i>
+      <i class="out">的</i>
+      <i class="out">我</i>
+      <i class="out">們</i>
+      <i class="out">靠</i>
+      <i class="out">著</i>
+      <i class="out">短</i>
+      <i class="out">訊</i>
+      <i class="out">來</i>
+      <i class="out">互</i>
+      <i class="out">相</i>
+      <i class="out">陪</i>
+      <i class="out">伴</i>
+      <i class="out">。</i>
+      </b>
+      <b class="is-hidden">
+      <i class="out">這</i>
+      <i class="out">是</i>
+      <i class="out">一</i>
+      <i class="out">個</i>
+      <i class="out">你</i>
+      <i class="out">我</i>
+      <i class="out">他</i>
+      <i class="out">的</i>
+      <i class="out">故</i>
+      <i class="out">事</i>
+      <i class="out">。</i>
+      </b>
+    <b class="is-hidden"><i class="out"> </i><i class="out">r</i><i class="out">e</i><i class="out">s</i><i class="out">e</i><i class="out">a</i><i class="out">r</i><i class="out">c</i><i class="out">h</i><i class="out">e</i><i class="out">r</i>
+    </b>
+    <b class="is-hidden">
+      <i class="out"> </i><i class="out">P</i><i class="out">s</i><i class="out">y</i><i class="out">c</i><i class="out">h</i><i class="out">o</i><i class="out">l</i><i class="out">o</i><i class="out">g</i><i class="out">i</i><i class="out">s</i><i class="out">t</i>
+    </b>
+    <b class="is-hidden">
+      <i class="out"> </i><i class="out">R</i><i class="out">-</i><i class="out">L</i><i class="out">a</i><i class="out">d</i><i class="out">y</i>
+    </b>
+  </span>
+</h1>
+
